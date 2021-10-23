@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* (هلیا شمس زاده)[https://HeliaShamszade.github.io]
-* مهرانگیز باقی[https://Mehrangizbaghi.github.io]
-* (سوگل طهباز)[https://sogoltahbaz.github.io]
-* (اسما حمید)[https://Asmahamid2003.github.io]
-* (زهرا عباسقلی)[https://ZahraAbbasgholi.github.io]
-* (فاطمه سادات باقری)[https://FatemehSadatBagheri.github.io]
+* [هلیا شمس زاده](https://HeliaShamszade.github.io)
+* [مهرانگیز باقی](https://Mehrangizbaghi.github.io)
+* [سوگل طهباز](https://sogoltahbaz.github.io)
+* [اسما حمید](https://Asmahamid2003.github.io)
+* [زهرا عباسقلی](https://ZahraAbbasgholi.github.io)
+* [فاطمه سادات باقری](https://FatemehSadatBagheri.github.io)
