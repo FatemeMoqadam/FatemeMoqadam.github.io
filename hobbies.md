@@ -4,11 +4,12 @@ author_profile: true
 permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
-modified: 9-14-2019
+modified: 24-10-2021
 comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
-
+* Watching Movies and Animes
+* Listening to Music
+* Reading Books
 
