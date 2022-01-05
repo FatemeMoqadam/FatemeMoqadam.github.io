@@ -10,6 +10,8 @@ title: خاطره
 دو. امتحان پایتون که از چیزی که فکر میکردم خیلی خیلی بدتر دادم با اینکه کلی تمرین کرده بود ازمون پارسال را در عرض یک روز زده بودم
 سه. امتحان زبان سی که البته نسبت به پایتون بهتر بود ولی بازم جای پیشرفت دارم
 
-![alt text] (../assests/images/all.jpg "Lab Exam")
-
+- url: /assets/images/all.jpg
+image_path: /assets/images/all.jpg
+alt: "placeholder image 1"
+title: "Image 1 title caption"
 ---
