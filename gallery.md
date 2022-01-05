@@ -19,8 +19,8 @@ gallery:
     image_path: /assets/images/32.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
-  - url: /assets/images/a.jpg
-    image_path: /assets/images/a.jpg
+  - url: /assets/images/all.jpg
+    image_path: /assets/images/all.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
   - url: /assets/images/123.jpg
