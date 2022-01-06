@@ -14,4 +14,4 @@ title: خاطره
 سه. امتحان زبان سی که البته نسبت به پایتون بهتر بود ولی بازم جای پیشرفت دارم
 <br>
 
-![My music](/assets/images/all.jpg)
+![My Class](/assets/images/all.jpg)
