@@ -12,5 +12,5 @@ comments: false
 
 * [Places I want to visit](http://iwanttovisit.com)
 * [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Second Github.io](https://fatememoqadam.github.io/labexam)
 

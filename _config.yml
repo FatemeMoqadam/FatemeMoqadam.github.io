@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Fateme.S.D.Moqadam"
+title                    : "Fateme Sharh Dehi Moqadam"
 title_separator          : "-"
 name                     : "Fateme" 
 description              : "Welcome to my web site."
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Fateme Moqadam"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : I'm a student of Computer Science at IUST.
   location         : "تهران"
   email            : f.moghadam0@gmail.com
